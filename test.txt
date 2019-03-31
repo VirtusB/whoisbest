@@ -1,0 +1,63 @@
+Array
+(
+    [0] => stdClass Object
+        (
+            [steamid] => 76561198129391013
+            [rank] => 1
+        )
+
+    [1] => stdClass Object
+        (
+            [steamid] => 76561198130820539
+            [rank] => 2
+        )
+
+    [2] => stdClass Object
+        (
+            [steamid] => 76561198000871305
+            [rank] => 3
+        )
+
+    [3] => stdClass Object
+        (
+            [steamid] => 76561198017465149
+            [rank] => 4
+        )
+
+    [4] => stdClass Object
+        (
+            [steamid] => 76561198208074848
+            [rank] => 5
+        )
+
+    [5] => stdClass Object
+        (
+            [steamid] => 76561198213896949
+            [rank] => 6
+        )
+
+    [6] => stdClass Object
+        (
+            [steamid] => 76561198200870857
+            [rank] => 7
+        )
+
+    [7] => stdClass Object
+        (
+            [steamid] => 76561198093124221
+            [rank] => 8
+        )
+
+    [8] => stdClass Object
+        (
+            [steamid] => 76561198018898995
+            [rank] => 9
+        )
+
+    [9] => stdClass Object
+        (
+            [steamid] => 76561198876273433
+            [rank] => 10
+        )
+
+)
